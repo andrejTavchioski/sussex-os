@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://sussexos.co.uk/sitemap.xml
