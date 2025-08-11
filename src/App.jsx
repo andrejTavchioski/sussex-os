@@ -15,7 +15,7 @@ function App() {
                 </div>
             </div>
             <div class="col-xs-6 col-sm-6 col-md-6 col-lg-3 main-col image-col">
-                <img src="./landscape1.jpg" alt="Landscape" id="landscape"/>
+                <img src="./assets/landscape1.jpg" alt="Landscape" id="landscape"/>
             </div>
             <div class="col-xs-6 col-sm-6 col-md-6 col-lg-3 main-col">
                 <div class="row" id="col3">
@@ -26,7 +26,7 @@ function App() {
                 </div>
             </div>
             <div class="col-xs-6 col-sm-6 col-md-6 col-lg-3 main-col image-col">
-                <img src="./cta-continental-panels.jpg" alt="Landscape" id="fence"/>
+                <img src="./assets/cta-continental-panels.jpg" alt="Landscape" id="fence"/>
             </div>
         </div>
     </div>
