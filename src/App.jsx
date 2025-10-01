@@ -2,6 +2,7 @@ import { useState } from "react";
 import Header from "./components/Header";
 import fence from "./assets/cta-continental-panels.jpg"
 import landscape from "./assets/landscape1.jpg"
+import Carousel from "./components/Carousel";
 
 
 function App() {
@@ -46,6 +47,10 @@ function App() {
                 No matter the size, every project deserves the highest standard. 
                 When you choose us, you’re not just getting a service—you’re partnering with a team that treats your home like their own.
         </div>
+    </div>
+    <div class="container-fluid" id="carousel">
+        <div id="carousel-title">Have a look at our work!</div>
+        <Carousel></Carousel>
     </div>
     <div class="container-fluid container-a" id="contact">
         <div id="contact-title">

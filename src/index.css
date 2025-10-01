@@ -149,6 +149,40 @@ textarea, input{
         text-align: center;
         font-size: small;
     }
+    #carousel-title{
+        color: #f6f0cc;
+        margin: 20px auto;
+        font-size: large;
+    }
+
+    #carousel {
+        margin: 10px auto;
+        border-top: 0.5px #f6f0cc  solid;
+    }
+
+    .swiper {
+        background: #2e435c;
+        width: 90%;
+        height: 200px;
+      }
+      
+      .swiper-slide {
+        text-align: center;
+        font-size: 18px;
+        background: #2e435c;
+      
+        /* Center slide text vertically */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      
+      .swiper-slide img {
+        display: block;
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+      }
     }
     @media (min-width: 576px) {
          body{
@@ -295,6 +329,41 @@ textarea, input{
         font-size: small;
         border-top: 0.5px #f6f0cc  solid;
     }
+
+    #carousel-title{
+        color: #f6f0cc;
+        margin: 20px auto;
+        font-size: x-large;
+    }
+
+    #carousel {
+        margin: 30px auto;
+        border-top: 0.5px #f6f0cc  solid;
+    }
+
+    .swiper {
+        background: #2e435c;
+        width: 90%;
+        height: 400px;
+      }
+      
+      .swiper-slide {
+        text-align: center;
+        font-size: 18px;
+        background: #2e435c;
+      
+        /* Center slide text vertically */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      
+      .swiper-slide img {
+        display: block;
+        width: 80%;
+        height: 100%;
+        object-fit: contain;
+      }
         
     }
 
@@ -435,6 +504,11 @@ textarea, input{
         font-size: small;
         border-top: 0.5px #f6f0cc  solid;
     }
+     #carousel-title{
+        color: #f6f0cc;
+        margin: 40px auto;
+        font-size: xx-large;
+    }
 
     }
     @media (min-width:992px){
@@ -556,6 +630,40 @@ textarea, input{
         text-align: right;
         font-size: small;
     }
+    #carousel-title{
+        color: #f6f0cc;
+        margin: 40px auto;
+        font-size: xx-large;
+    }
+
+    #carousel {
+        margin: 30px auto;
+        border-top: 0.5px #f6f0cc  solid;
+    }
+
+    .swiper {
+        background: #2e435c;
+        width: 75%;
+        height: 500px;
+      }
+      
+      .swiper-slide {
+        text-align: center;
+        font-size: 18px;
+        background: #2e435c;
+      
+        /* Center slide text vertically */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      
+      .swiper-slide img {
+        display: block;
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+      }   
     }
     @media (min-width:1400px){
     #about{
